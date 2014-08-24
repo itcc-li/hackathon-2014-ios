@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Kathedrale St. Florin</string>
+			<key>body</key>
+			<string>Die Kathedrale St. Florin wurde in den Jahren 1869 bis 1873 nach den Plänen von Friedrich von Schmidt
+erbaut. Heute ist sie eines der Wahrzeichen von Vaduz und ist dank ihres Frontturms von weither zu erkennen. Benannt ist sie nach ihrem Patron St. Florin, der im 7. Jahrhundert gelebt hat.
+</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Landtagsgebäude</string>
+			<key>body</key>
+			<string>Das neue Landtagsgebäude wurde 2008 vom deutschen Architekten Hansjörg Göritz erbaut. Seither treffen sich dort mehrmals jährlich die 25 Abgeordneten des Landtags, sowie der Landtagspräsident. Dieser wird jeweils in der Eröffnungssitzung für den Rest des Jahres gewählt.</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Landesmuseum</string>
+			<key>body</key>
+			<string>Das liechtensteinische Landesmuseum ist eine öffentliche Stiftung mit dem Ziel die Geschichte sowie die Landes- und Naturkunde der Öffentlichkeit zu präsentieren. Zu der Stiftung gehören unter anderem das historische Landesmuseum und das Postmuseum in Vaduz, sowie das bäuerliche Wohnmuseum in Schellenberg.</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Tourismus</string>
+			<key>body</key>
+			<string>Trotz seinen wenigen Dörfern und seinen knapp 40‘000 Einwohnern hat Liechtenstein eine ganze Menge zu bieten. Kulturreisende können sich an diversen renommierten Museen und einem ereignisreichen Festivalsommer erfreuen. Aktivurlauber können sich auf die zahlreichen Wanderwege, Skipisten, Radwege oder Skatingstrecken begeben und Familien können einen idyllischen Aufenthalt geniessen.</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Postmuseum</string>
+			<key>body</key>
+			<string>Das Postmuseum befindet sich im sogenannten Engländerbau, das so genannt wird, weil es das erste Bauwerk Liechtensteins in Stahlskelettbauweise war. Das Museum selbst, stellt Dokumente und Requisiten der liechtensteiner Postgeschichte aus.</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Kunstmuseum</string>
+			<key>body</key>
+			<string>Das liechtensteinische Kunstmuseum ist ein staatliches Museum für zeitgenössische und bildende Kunst. Der Kunstbau, in dem sich das Museum befindet, wurde zur Jahrtausendwende von drei schweizer Architekten erbaut. Die bedeutende Sammlung moderner und zeitgenössischer Kunst, die im Museum ausgestellt wird, ist gleichzeitig die staatliche Sammlung des Fürstentum Liechtensteins.</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Schlosshotel</string>
+			<key>body</key>
+			<string>Das Schlosshotel ist ein zentral in Vaduz gelegenes vier Sterne Hotel. Das Hotel ist eines der berühmtesten in Vaduz und ist zu jeder Jahreszeit belegt. Ebenfalls im Hotelgebäude befindet sich das Restaurant Residence, welches zum Hotel gehört.</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Roter Platz</string>
+			<key>body</key>
+			<string>Der rote Platz im Zentrum der vaduzer Innenstadt ist immer wieder Austragungsort von musikalischen und sportlichen Events. Zum Beispiel das alljährlich stattfindende Beach Volleyball Turnier.</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Abschluss</string>
+			<key>body</key>
+			<string>Hier endet die Tour! Sie befinden sich nun auf dem Busparkplatz von Vaduz, der Ausgangspunkt für viele Reisende ist. Wir hoffen, dass Sie einen kleinen Einblick in die Altstadt von Vaduz hatten und bald wieder kommen :-)</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>scoreCountIncorrect</key>
+			<integer>-100</integer>
+			<key>scoreCountCorrect</key>
+			<integer>200</integer>
+			<key>modul</key>
+			<string>multipleChoice</string>
+			<key>choices</key>
+			<array>
+				<string>1759</string>
+				<string>1769</string>
+				<string>1829</string>
+				<string>1873</string>
+			</array>
+			<key>question</key>
+			<string>In welchem Jahr wurde die Dompfarrei in Vaduz errichtet?</string>
+			<key>solutionIndex</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>scoreCountIncorrect</key>
+			<integer>-100</integer>
+			<key>scoreCountCorrect</key>
+			<integer>200</integer>
+			<key>modul</key>
+			<string>multipleChoice</string>
+			<key>choices</key>
+			<array>
+				<string>5</string>
+				<string>10</string>
+				<string>20</string>
+				<string>25</string>
+			</array>
+			<key>question</key>
+			<string>Aus wie vielen Abgeordneten besteht der Liechtensteinische Landtag?</string>
+			<key>solutionIndex</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>scoreCountIncorrect</key>
+			<integer>-150</integer>
+			<key>scoreCountCorrect</key>
+			<integer>200</integer>
+			<key>modul</key>
+			<string>multipleChoice</string>
+			<key>choices</key>
+			<array>
+				<string>Schweiz</string>
+				<string>Österreich</string>
+				<string>Liechtenstein</string>
+			</array>
+			<key>question</key>
+			<string>Aus welchem Land stellt das Landesmuseum Liechtenstein Objekte aus?</string>
+			<key>solutionIndex</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>scoreCountIncorrect</key>
+			<integer>-200</integer>
+			<key>scoreCountCorrect</key>
+			<integer>200</integer>
+			<key>modul</key>
+			<string>multipleChoice</string>
+			<key>choices</key>
+			<array>
+				<string>Ja</string>
+				<string>Nein</string>
+			</array>
+			<key>question</key>
+			<string>Liegt das Tourismusbüro von Liechtenstein an der Strasse &quot;Städtle 39&quot;?</string>
+			<key>solutionIndex</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>scoreCountIncorrect</key>
+			<integer>-150</integer>
+			<key>scoreCountCorrect</key>
+			<integer>200</integer>
+			<key>modul</key>
+			<string>multipleChoice</string>
+			<key>choices</key>
+			<array>
+				<string>Gratis</string>
+				<string>CHF 10.00</string>
+				<string>CHF 20.00</string>
+			</array>
+			<key>question</key>
+			<string>Wie viel kostet der Eintritt ins Postmuseum Lichtenstein?</string>
+			<key>solutionIndex</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>scoreCountIncorrect</key>
+			<integer>-200</integer>
+			<key>scoreCountCorrect</key>
+			<integer>200</integer>
+			<key>modul</key>
+			<string>multipleChoice</string>
+			<key>choices</key>
+			<array>
+				<string>Ja</string>
+				<string>Nein</string>
+			</array>
+			<key>question</key>
+			<string>Bietet das Kunstmuseum Liechtenstein öffentliche Führungen an?</string>
+			<key>solutionIndex</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>scoreCountIncorrect</key>
+			<integer>-200</integer>
+			<key>scoreCountCorrect</key>
+			<integer>200</integer>
+			<key>modul</key>
+			<string>multipleChoice</string>
+			<key>choices</key>
+			<array>
+				<string>Ja</string>
+				<string>Nein</string>
+			</array>
+			<key>question</key>
+			<string>Liegt das Schlosshotel Liechtenstein in Vaduz?</string>
+			<key>solutionIndex</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>scoreCountIncorrect</key>
+			<integer>-150</integer>
+			<key>scoreCountCorrect</key>
+			<integer>200</integer>
+			<key>modul</key>
+			<string>multipleChoice</string>
+			<key>choices</key>
+			<array>
+				<string>Keiner</string>
+				<string>Altenbach</string>
+				<string>Städtle</string>
+			</array>
+			<key>question</key>
+			<string>An welcher Strasse befindet sich der Volleyballplatz?</string>
+			<key>solutionIndex</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>scoreCountIncorrect</key>
+			<integer>-100</integer>
+			<key>scoreCountCorrect</key>
+			<integer>100</integer>
+			<key>modul</key>
+			<string>userInput</string>
+			<key>choices</key>
+			<array>
+				<string>7</string>
+			</array>
+			<key>question</key>
+			<string>Wie viele Fragen hast du bist jetzt beantwortet?</string>
+			<key>solutionIndex</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>tasknummer</key>
+			<string>0</string>
+			<key>laengengrad</key>
+			<string>47.136260</string>
+			<key>breitengrad</key>
+			<string>9.522500</string>
+			<key>name</key>
+			<string>Kathedrale St. Florin</string>
+		</dict>
+		<dict>
+			<key>tasknummer</key>
+			<string>1</string>
+			<key>laengengrad</key>
+			<string>47.137095</string>
+			<key>breitengrad</key>
+			<string>9.522818</string>
+			<key>name</key>
+			<string>Liechtensteiner Landtag</string>
+		</dict>
+		<dict>
+			<key>tasknummer</key>
+			<string>2</string>
+			<key>laengengrad</key>
+			<string>47.138185</string>
+			<key>breitengrad</key>
+			<string>9.522489</string>
+			<key>name</key>
+			<string>Liechtensteinisches Landesmuseum</string>
+		</dict>
+		<dict>
+			<key>tasknummer</key>
+			<string>3</string>
+			<key>laengengrad</key>
+			<string>47.138474</string>
+			<key>breitengrad</key>
+			<string>9.522513</string>
+			<key>name</key>
+			<string>Liechtensteinisches Tourismusbüro</string>
+		</dict>
+		<dict>
+			<key>tasknummer</key>
+			<string>4</string>
+			<key>laengengrad</key>
+			<string>47.138971</string>
+			<key>breitengrad</key>
+			<string>9.522565</string>
+			<key>name</key>
+			<string>Postmuseum Liechtenstein</string>
+		</dict>
+		<dict>
+			<key>tasknummer</key>
+			<string>5</string>
+			<key>laengengrad</key>
+			<string>47.139511</string>
+			<key>breitengrad</key>
+			<string>9.522597</string>
+			<key>name</key>
+			<string>Kunstmuseum Liechtenstein</string>
+		</dict>
+		<dict>
+			<key>tasknummer</key>
+			<string>6</string>
+			<key>laengengrad</key>
+			<string>47.140010</string>
+			<key>breitengrad</key>
+			<string>9.522705</string>
+			<key>name</key>
+			<string>Schlosshotel Vaduz</string>
+		</dict>
+		<dict>
+			<key>tasknummer</key>
+			<string>7</string>
+			<key>laengengrad</key>
+			<string>47.140717</string>
+			<key>breitengrad</key>
+			<string>9.522334</string>
+			<key>name</key>
+			<string>Roter Platz Vaduz</string>
+		</dict>
+		<dict>
+			<key>tasknummer</key>
+			<string>8</string>
+			<key>laengengrad</key>
+			<string>47.140363</string>
+			<key>breitengrad</key>
+			<string>9.521388</string>
+			<key>name</key>
+			<string>Car Parkplatz</string>
+		</dict>
+	</array>
+</array>
+</plist>
